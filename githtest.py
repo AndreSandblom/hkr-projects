@@ -10,9 +10,12 @@ for i in list_of_number:
 
 print("Funkar githhub nu?")
 
+
 def flight_simulator():
+    """Flight Simulator"""
     print("Starting flight simulator...")
     # Add your flight simulation code here
     print("Flight simulation complete.")
+
 
 flight_simulator()
